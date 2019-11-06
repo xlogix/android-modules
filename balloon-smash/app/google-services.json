@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79616351886",
+    "firebase_url": "https://mobifest-d20ab.firebaseio.com",
+    "project_id": "mobifest-d20ab",
+    "storage_bucket": "mobifest-d20ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79616351886:android:40ee4d928c1b829a",
+        "android_client_info": {
+          "package_name": "com.mobifest.balloonsmash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79616351886-2i5sd7ncjq4oqqesubak2d6co6d3ctel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLQP9RtAwak_zRl5dbtD4XelwFKbakxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
